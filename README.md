@@ -26,7 +26,6 @@ To develop a Python-based solution that:
 ├── summary_gemini_api.py            # Step 6: Optional AI summarization using Gemini
 ├── final_linkedin_profiles_with_descriptions.csv # ✅ Final Output
 ├── README.md
-├── requirements.txt
 └── .env                              # Contains API keys (not shared publicly)
 ```
 
