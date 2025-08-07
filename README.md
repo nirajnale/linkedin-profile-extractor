@@ -24,7 +24,7 @@ To develop a Python-based solution that:
 ├── apify_runner.py                  # Step 4: Extract detailed profile data from LinkedIn using Apify
 ├── companies_list_profile_merged.py # Step 5: Merge company + profile data
 ├── summary_gemini_api.py            # Step 6: Optional AI summarization using Gemini
-├── final_linkedin_profiles_with_descriptions.csv # ✅ Final Output
+├── final_linkedin_profiles.csv     # ✅ Final Output
 ├── README.md
 └── .env                              # Contains API keys (not shared publicly)
 ```
