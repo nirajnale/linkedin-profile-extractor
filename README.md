@@ -148,6 +148,5 @@ The script was developed as a complete automated pipeline. Gemini/OpenAI LLMs we
 
 Prepared by: **Niraj Nale**  
 Submission for: *Web Crawling & LinkedIn Extraction Task*  
-Demo: Available upon request.
 
 ---
